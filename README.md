@@ -43,6 +43,7 @@ Name with link - Description
 ### Web frameworks
 - [Django](https://www.djangoproject.com/) -  Written in Python and follows the model–view–controller (MVC) architectural pattern
 - [Ruby on Rails](http://rubyonrails.org/) - A model–view–controller (MVC) framework, providing default structures for a database, a web service, web pages and written in Ruby
+- [Meteor](https://meteor.com) - A full-stack JavaScript app platform built on DDP, a websocket-based protocol, for building web, mobile and native mobile apps
 
 ### OS Distros
 - [CentOS](https://www.centos.org/) - A Linux distribution that attempts to provide a free, enterprise-class, community-supported computing platform which aims to be functionally compatible with its upstream source, Red Hat Enterprise Linux (RHEL)
