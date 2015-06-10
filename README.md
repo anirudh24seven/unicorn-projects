@@ -19,6 +19,7 @@ Name with link - Description
 - [GIMP](http://www.gimp.org/) -  Raster graphics editor used for image retouching and editing, free-form drawing, resizing, cropping, photo-montages, converting between different image formats, and more specialized tasks
 - [Linux Kernel](https://www.kernel.org/) - The most widely used operating system kernel
 - [LibreOffice](http://www.libreoffice.org/) - The default office suite of most popular Linux distributions
+- [Mautic](https://www.mautic.org/) - The only Open Source marketing automation platform, email marketing, social media marketing, lead management and nurturing, completely free software.
 - [OpenStreetMap](http://www.openstreetmap.org/) - A collaborative project to create a free editable map of the world
 - [PostgreSQL](http://www.postgresql.org/) - An object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance
 
